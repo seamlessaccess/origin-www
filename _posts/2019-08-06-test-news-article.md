@@ -1,6 +1,6 @@
 ---
 layout: post
-title: News Release
+title: Test News Release
 categories:
 - News
 feature_image: "https://picsum.photos/2560/600?image=872"
