@@ -25,20 +25,22 @@ baseurl: ''
 title: 'SA Site'
 description: 'This is a new website'
 permalink: pretty
-logo: "/assets/images/style/SeamlessAccess-Logo_Blue_50.png"
+logo: "/assets/img/brand/SeamlessAccess-Logo_Blue_50.png"
 
 # Pagination
 paginate: 5
-paginate_path: blog/page:num
+paginate_path: news-events/page:num
 
 # Header nav
 navigation_header:
 - title: Home
   url: /
-- title: About
+- title: What is Seamless Access?
   url: /about/
 - title: News & Events
   url: /news-events/
+- title: Get Involved
+  url: /get-involved/
 
 # Footer nav
 navigation_footer:
@@ -48,9 +50,8 @@ navigation_footer:
 # Collections
 collections:
   posts:
-    title: News & events
+    title: News & Events
     output: true
     description: "Stay up to date on Seamless Access news and events."
-    feature_text: |
-      Hero Text
+    feature_text:
     feature_image: "https://picsum.photos/2560/600?image=866"
