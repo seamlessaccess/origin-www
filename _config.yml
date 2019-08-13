@@ -55,3 +55,10 @@ collections:
     description: "Stay up to date on Seamless Access news and events."
     feature_text:
     feature_image: "https://picsum.photos/2560/600?image=866"
+
+# Front Matter generator
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
