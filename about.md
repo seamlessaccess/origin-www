@@ -3,7 +3,7 @@ layout: page
 title: About Seamless Access
 ---
 
-SeamlessAccess.org is helping foster a more streamlined online access experience when using scholarly collaboration tools, information resources, and shared research infrastructure. The service promotes digital authentication leveraging an existing single-sign-on infrastructure through one’s home institution, while maintaining an environment that protects personal data and privacy. 
+SeamlessAccess.org is a service designed to help foster a more streamlined online access experience when using scholarly collaboration tools, information resources, and shared research infrastructure. The service promotes digital authentication leveraging an existing single-sign-on infrastructure through one’s home institution, while maintaining an environment that protects personal data and privacy. 
 
 SeamlessAccess.org aims to enable simple, trusted use of scholarly resources and services anytime, anywhere, and on any device.
 

@@ -23,7 +23,7 @@ plugins:
 url: 'https://origin.seamlessaccess.org/'
 baseurl: ''
 title: 'SA Site'
-description: 'This is a new website'
+description: 'SeamlessAccess'
 permalink: pretty
 logo: "/assets/img/brand/SeamlessAccess-Logo_Blue_50.png"
 
@@ -37,6 +37,8 @@ navigation_header:
   url: /
 - title: What is Seamless Access?
   url: /about/
+  - title: FAQ
+    url: /FAQ/
 - title: News & Events
   url: /news-events/
 - title: Get Involved
