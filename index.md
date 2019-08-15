@@ -1,5 +1,5 @@
 ---
-title: Homepage
+title: Welcome to SeamlessAccess.org
 layout: page
 feature_image: "/assets/img/home-bg.jpg"
 feature_text: |
