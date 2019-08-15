@@ -2,8 +2,6 @@
 title: Welcome to SeamlessAccess.org
 layout: page
 feature_image: "/assets/img/home-bg.jpg"
-feature_text: |
-  ## Seamless Access
 ---
 
 SeamlessAccess.org = simple, trusted use of scholarly resources and services anytime, anywhere, and on any device.
