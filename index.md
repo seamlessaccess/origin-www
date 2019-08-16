@@ -4,11 +4,11 @@ layout: page
 feature_image: "/assets/img/home-bg.jpg"
 feature_text: |
   ## Seamless.
-  #### We offer seamless access.
-  #### You get research as it should be.
+
 ---
 
-# SeamlessAccess.org = simple, trusted use of scholarly resources and services anytime, anywhere, and on any device.
+#### We offer seamless access.
+#### You get research as it should be.
 
 Seamless Access is the new, convenient way to access digital scholarly content and services that builds on the [guidelines](https://www.niso.org/publications/rp-27-2019-ra21) resulting from the Resource Access in the 21st Century ([RA21](https://ra21.org)) initiative. It sets a standard for digital authentication based on a single sign on through your own home institution.
 
