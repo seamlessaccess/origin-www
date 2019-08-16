@@ -7,7 +7,7 @@ SeamlessAccess.org is a service designed to help foster a more streamlined onlin
 
 SeamlessAccess.org aims to enable simple, trusted use of scholarly resources and services anytime, anywhere, and on any device.
 
-Governance of this service is through the Coalition for Seamless Access, a collaboration between five organizations--[GÉANT](https://geant.org), [Internet2](https://internet2.edu), the National Information Standards Organization ([NISO](https://niso.org)),[ORCID](https://orcid.org), and the International Association of STM Publishers ([STM](https://stm-assoc.org)).
+Governance of this service is through the Coalition for Seamless Access, a collaboration between five organizations--[GÉANT](https://geant.org), [Internet2](https://internet2.edu), the National Information Standards Organization ([NISO](https://niso.org)), [ORCID](https://orcid.org), and the International Association of STM Publishers ([STM](https://stm-assoc.org)).
 
 
 ## About GÉANT

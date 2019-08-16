@@ -8,19 +8,14 @@ title: FAQ
 SeamlessAccess.org is a service, based on the findings of the Resource Access for the 21st Century (RA21) initiative, designed to help foster a more streamlined online access experience when using scholarly collaboration tools, information resources, and shared research infrastructure. The service promotes digital authentication leveraging an existing single-sign-on infrastructure through one’s home institution, while maintaining an environment that protects personal data and privacy.
 
 
-
-### What is out of scope for SeamlessAccess.org?
-
-While the pilot programs are working with different tools to test out possible best practices, the RA21 project is not about building software tools or recommending specific products. It is also not about designing business models or providing legal advice around privacy.
-
 ### How is SeamlessAccess.org governed?
 
-SeamlessAccess.org is committed to ensuring all stakeholders are represented in governance of the service. Current coalition members include representatives from [GÉANT](https://geant.org), [Internet2](https://internet2.edu), the National Information Standards Organization ([NISO](https://niso.org)),[ORCID](https://orcid.org), and the International Association of STM Publishers ([STM](https://stm-assoc.org)). Technical Steering includes individuals from 
+SeamlessAccess.org is committed to ensuring all stakeholders are represented in governance of the service. Current coalition members include representatives from [GÉANT](https://geant.org), [Internet2](https://internet2.edu), the National Information Standards Organization ([NISO](https://niso.org)), [ORCID](https://orcid.org), and the International Association of STM Publishers ([STM](https://stm-assoc.org)). Technical Steering includes individuals from 
 
 
 ### How does SeamlessAccess.org take into account user privacy?
 
-User privacy was one of the guiding principles of RA21 and remains a key tenet of the SeamlessAccess.org service. The General Data Protection Regulation and the e-privacy regulation proposal arising from the EU provide a set of legal requirements that inform the configuration and use of the service. 
+User privacy is one of the guiding principles of the SeamlessAccess.org service. The General Data Protection Regulation and the e-privacy regulation proposal arising from the EU provide a set of legal requirements that inform the configuration and use of the service. 
 
 SeamlessAccess.org uses SAML federated authentication technology, which has in-built mechanisms for preserving privacy. No information can be shared about the user without action on the part of the user's institution. Typically, academic SAML Identity Providers provide unique, persistent, but opaque identifiers, which provides a way for publishers to personalize services for users without knowing the actual identity of the individual. Optionally, publishers may then ask for additional personal information from users via their normal registration processes, disclosing their privacy policies, in order to provide services which require the publisher to know the identity of the user, such as email alerts.
 
