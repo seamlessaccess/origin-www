@@ -37,8 +37,8 @@ navigation_header:
   url: /
 - title: What is Seamless Access?
   url: /about/
-  - title: FAQ
-    url: /FAQ/
+- title: FAQ
+  url: /FAQ/
 - title: News & Events
   url: /news-events/
 - title: Get Involved
