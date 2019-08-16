@@ -9,7 +9,6 @@ SeamlessAccess.org aims to enable simple, trusted use of scholarly resources and
 
 Governance of this service is through the Coalition for Seamless Access, a collaboration between five organizations--[GÉANT](https://geant.org), [Internet2](https://internet2.edu), the National Information Standards Organization ([NISO](https://niso.org)),[ORCID](https://orcid.org), and the International Association of STM Publishers ([STM](https://stm-assoc.org)).
 
-![Timeline for the rollout of SeamlessAccess.org](SA-timeline.jpg)
 
 ## About GÉANT
 GÉANT is Europe’s leading collaboration on network and related infrastructure and services for the benefit of research and education, contributing to Europe's economic growth and competitiveness. The organisation develops, delivers and promotes advanced network and associated e-infrastructure services, and supports innovation and knowledge-sharing amongst its members, partners and the wider research and education networking community. 
