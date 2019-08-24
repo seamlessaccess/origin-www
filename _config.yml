@@ -41,8 +41,8 @@ navigation_header:
   url: /FAQ/
 - title: News & Events
   url: /news-events/
-- title: Get Involved
-  url: /get-involved/
+- title: Get Started
+  url: /get-started/
 
 # Footer nav
 navigation_footer:
