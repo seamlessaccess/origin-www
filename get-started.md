@@ -20,9 +20,11 @@ There are four basic steps for implementing the SeamlessAccess service:
 You may not know this! So, your task will be in determining who in your organization to ask. Often those who handle system security compliance will know, as will those who manage the access control to the resources that are secured by a sign in. 
 
 **Someone else may handle this**
+
 In some cases, a vendor or software provider may provide this support for you. If this is the case, you will need to work with this provider to use SeamlessAccess. We are working with several providers, and would like to work with you and your provider on a solution.
 
 **We do this ourselves, but I don't know what tool we use**
+
 A few examples of tools include:
 
 * [Shibboleth SP](https://www.shibboleth.net/products/service-provider/) (Open source software)
@@ -33,6 +35,7 @@ A few examples of tools include:
 * [Oracle Access Management platform](https://www.oracle.com/middleware/identity-management/access-management/)
 
 **Or, maybe you don’t yet enable federated single sign-on…**
+
 Maybe you are just getting started with federated sign on! We’re excited that you are trying it out with SeamlessAccess so that your end users get the best possible user experience. For you, we suggest using Shibboleth SP, and we include in this guide details on how to get it up and running. Instead of continuing here, check out the Implementation Guide for Those New to Federated SSO.
 
 ### Choose a SeamlessAccess "flavor"
