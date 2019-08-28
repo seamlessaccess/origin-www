@@ -6,16 +6,14 @@ categories:
 feature_image: "https://picsum.photos/2560/600?image=872"
 ---
 
-
-# Who is this for?
 This guide is for non-technical people who want to understand how attribute release enables secure and privacy-preserving access to online library resources using federated identity management. If you first want to read up on what federated identity management is, you can find a basic introduction [here](https://docs.google.com/document/d/12my34dszhjr7cj-YPM8g0hGUZ4KIBQLbL3hCVD-4h5c/edit).
 
-# What are attributes?
+## What are attributes?
 Attributes contain information about an end user that are passed to a publisher or service provider after authentication. Think of a name, email-address etc.
 
 An end user working or studying in the Research & Education (R&E) sector often has a user account with their institution. Their institution is the ‘identity provider’ of the user, commonly abbreviated as IdP. During an online authentication workflow, the IdP can often provide additional attributes about the user[^1] to the organization initiating the process (also known as the Service Provider or SP). 
 
-# Why are attributes important?
+## Why are attributes important?
 Attributes can be used to transfer information about the end user from the IdP to the service a user wants to access. For example, attributes are commonly used for:
 
 | Use | Example | 
