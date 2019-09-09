@@ -18,25 +18,27 @@ Attributes can be used to transfer information about the end user from the IdP t
 
 <table>
   <thead>
-    <tr><th>Use</th><th>Example</th> 
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Use</th>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Example</th> 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Access control</td>
-      <td>e.g., only allow users who are full-time staff</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Access control</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">e.g., only allow users who are full-time staff</td>
     </tr>
     <tr>
-      <td>Cost control</td>
-      <td>e.g., only allow users with a certain role, or from a certain department</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Cost control</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">e.g., only allow users with a certain role, or from a certain department</td>
     </tr>
     <tr>
-      <td>Risk control</td>
-      <td>e.g., avoid the need for (i) users to separately register a username/ password and (ii) 3rd parties to store credentials</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Risk control</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">e.g., avoid the need for (i) users to separately register a username/ password and (ii) 3rd parties to store credentials</td>
     </tr>
     <tr>
-      <td>Convenience</td>
-      <td>e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds |</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Convenience</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds |</td>
     </tr>
   </tbody> 
 </table>
@@ -98,8 +100,8 @@ Here are some example scenarios showing how attribute release can enable differe
 <table>
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85;">Scenario</th>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85;">Attributes</th>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Scenario</th>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Attributes</th>
     </tr>
   </thead>
   <tbody>
