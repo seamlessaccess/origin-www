@@ -38,7 +38,7 @@ Attributes can be used to transfer information about the end user from the IdP t
     </tr>
     <tr>
       <td>Convenience</td>
-      <td>e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds |</td>
+      <td>e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds</td>
     </tr>
   </tbody> 
 </table>
