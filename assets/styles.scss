@@ -5,22 +5,27 @@ styles: true
 
 // Add styles for the tables displayed in the blog
 // (must be styled in HTML)
-.blog-table td, .blog-table th {
-  border: 1px solid #ddd; 
-  padding: 8px; 
-  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
-}
+.blog-table {
+  td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  }
 
-.blog-table th {
-  padding-bottom: 12px; 
-  padding-top: 12px; 
-  background-color: #05bf85; 
-  color: white; 
-  font-weight: bold;
-}
+  th {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding-bottom: 12px; 
+    padding-top: 12px; 
+    background-color: #05bf85; 
+    color: white; 
+    font-weight: bold;
+  }
 
-.blog-table tr:nth-child(even){
-  background-color: #ddd;
+  tr:nth-child(even) {
+    background-color: #ddd;
+  }
 }
 
 @import "alembic";
