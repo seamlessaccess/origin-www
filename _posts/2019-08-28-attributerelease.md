@@ -51,7 +51,7 @@ Personal
 ## How does attribute release work?
 In general, the flow goes as follows: a user lands on a web page of a service (an SP), often via a search engine like Google, and clicks a login button that brings them to their IdP, while the SP specifies what attributes it would like to receive. The user signs in at their IdP. After successful authentication, the IdP redirects the user back to the service, while providing zero or more attributes. Graphically:
 
-![Attribute Release Workflow Diagram](attribute-release.png)
+![Attribute Release Workflow Diagram](/assets/post-img/attribute-release.png)
 
 The IdP is always in control of what attributes are released to an individual SP, and has a responsibility to limit attribute release and protect the users privacy. Depending on the national legislation, IdP’s should check to see whether they need a contract between the IdP and SP to release personal information that defines, amongst other things, what other attributes are necessary and how the privacy of the user is protected. 
 
