@@ -19,26 +19,26 @@ Attributes can be used to transfer information about the end user from the IdP t
 <table class="blog-table">
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Use</th>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Example</th> 
+      <th>Use</th>
+      <th>Example</th> 
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Access control</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">e.g., only allow users who are full-time staff</td>
+      <td>Access control</td>
+      <td>e.g., only allow users who are full-time staff</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Cost control</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">e.g., only allow users with a certain role, or from a certain department</td>
+      <td>Cost control</td>
+      <td>e.g., only allow users with a certain role, or from a certain department</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Risk control</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">e.g., avoid the need for (i) users to separately register a username/ password and (ii) 3rd parties to store credentials</td>
+      <td>Risk control</td>
+      <td>e.g., avoid the need for (i) users to separately register a username/ password and (ii) 3rd parties to store credentials</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Convenience</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds |</td>
+      <td>Convenience</td>
+      <td>e.g., save search results for subsequent access. And avoid the user having to provide duplicative information to the SP that their IdP already holds |</td>
     </tr>
   </tbody> 
 </table>
@@ -97,29 +97,29 @@ RA21 recommends:
 
 Here are some example scenarios showing how attribute release can enable different levels of personalization for the user:
 
-<table>
+<table class="blog-table">
   <thead>
     <tr>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Scenario</th>
-      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85; color: white; font-weight: bold;">Attributes</th>
+      <th>Scenario</th>
+      <th>Attributes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Users access a website or resource that is access controlled by provides full-text articles with no options for personalization</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Anonymous attributes</td>
+      <td>Users access a website or resource that is access controlled by provides full-text articles with no options for personalization</td>
+      <td>Anonymous attributes</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Users access a website that provides personalised get content recommendations in its UI based on prior visits/history</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID </td>
+      <td>Users access a website that provides personalised get content recommendations in its UI based on prior visits/history</td>
+      <td>Pseudonymous ID </td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Faculty have the ability to purchase ebooks using library funds</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID, User role</td>
+      <td>Faculty have the ability to purchase ebooks using library funds</td>
+      <td>Pseudonymous ID, User role</td>
     </tr>
     <tr>
-      <td style="border: 1px solid #ddd; padding: 8px;">Clinicians receive email confirmation of Continuing Education credits received</td>
-      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID, User email address (with user consent)</td>
+      <td>Clinicians receive email confirmation of Continuing Education credits received</td>
+      <td>Pseudonymous ID, User email address (with user consent)</td>
     </tr>
   </tbody>
 </table>
