@@ -97,25 +97,27 @@ Here are some example scenarios showing how attribute release can enable differe
 
 <table>
   <thead>
-    <tr><th>Scenario</th><th>Attributes</th>
+    <tr>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85;">Scenario</th>
+      <th style="border: 1px solid #ddd; padding: 8px; padding-bottom: 12px; padding-top: 12px; background-color: #05bf85;">Attributes</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>Users access a website or resource that is access controlled by provides full-text articles with no options for personalization</td>
-      <td>Anonymous attributes</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Users access a website or resource that is access controlled by provides full-text articles with no options for personalization</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Anonymous attributes</td>
     </tr>
     <tr>
-      <td>Users access a website that provides personalised get content recommendations in its UI based on prior visits/history</td>
-      <td>Pseudonymous ID </td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Users access a website that provides personalised get content recommendations in its UI based on prior visits/history</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID </td>
     </tr>
     <tr>
-      <td>Faculty have the ability to purchase ebooks using library funds</td>
-      <td>Pseudonymous ID, User role</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Faculty have the ability to purchase ebooks using library funds</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID, User role</td>
     </tr>
     <tr>
-      <td>Clinicians receive email confirmation of Continuing Education credits received</td>
-      <td>Pseudonymous ID, User email address (with user consent)</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Clinicians receive email confirmation of Continuing Education credits received</td>
+      <td style="border: 1px solid #ddd; padding: 8px;">Pseudonymous ID, User email address (with user consent)</td>
     </tr>
   </tbody>
 </table>
