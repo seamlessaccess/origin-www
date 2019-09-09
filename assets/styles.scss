@@ -3,19 +3,22 @@ title: false
 styles: true
 ---
 
+// Overriding typography from _settings.scss
+$bodytype: (
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+)
+
 // Add styles for the tables displayed in the blog
 // (must be styled in HTML)
 .blog-table {
   td {
     border: 1px solid #ddd; 
     padding: 8px; 
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
   }
 
   th {
     border: 1px solid #ddd; 
-    padding: 8px; 
-    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    padding: 8px;
     padding-bottom: 12px; 
     padding-top: 12px; 
     background-color: #05bf85; 
