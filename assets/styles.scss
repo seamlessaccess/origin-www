@@ -3,5 +3,39 @@ title: false
 styles: true
 ---
 
+// Overriding typography from _settings.scss
+$bodytype: (
+  font-family: 'Arial, Helvetica, sans-serif',
+  regular: 400,
+  bold: 700,
+  italic: italic,
+  cap-height: 0.75
+);
+
+$headingtype: (
+  font-family: 'Arial, Helvetica, sans-serif',
+  regular: 400,
+  bold: 700,
+  cap-height: 0.75
+);
+
+// Add styles for the tables displayed in the blog
+// (must be styled in HTML)
+.blog-table {
+  td {
+    border: 1px solid #ddd; 
+    padding: 8px; 
+  }
+
+  th {
+    border: 1px solid #ddd; 
+    padding: 8px;
+    padding-bottom: 12px; 
+    padding-top: 12px; 
+    background-color: #05bf85; 
+    color: white; 
+    font-weight: bold;
+  }
+}
 
 @import "alembic";

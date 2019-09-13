@@ -15,7 +15,7 @@ There are four basic steps for implementing the SeamlessAccess service:
 
 > **Who does this work?** This information will be gathered from several different people and probably will be coordinated by a project manager. During this phase of the work, you will be working closely with the SeamlessAccess team who will help you interpret the information you have gathered and what it means to your organization. Based on this information, we will also be able to estimate time and resource requirements to make your site SeamlessAccess enabled.
 
-### How does your system support federated sign in?
+### How does your system support federated authentication?
 
 You may not know this! So, your task will be in determining who in your organization to ask. Often those who handle system security compliance will know, as will those who manage the access control to the resources that are secured by a sign in. 
 
@@ -43,16 +43,16 @@ Maybe you are just getting started with federated sign on! We’re excited that 
 SeamlessAccess.org provides services and software, enabling three different "flavors" of implementation:
 
 * **Limited** - lets you use the SeamlessAccess discovery service for users to find and sign into their preferred Identity Provider, but doesn’t integrate this service into your site
-* **Full** - lets you use the SeamlessAccess service to display the button on your site, and use the SeamlessAccess discovery and persistence services as integrated components on your site
+* **Standard** - lets you use the SeamlessAccess service to display the button on your site, and use the SeamlessAccess discovery and persistence services as integrated components on your site
 * **Advanced** - provides you with the SeamlessAccess persistence service while giving you greater control over the appearance of the service on your site, and what Identity Providers (IdPs) you include in your discovery service
 
 ## 2. Connect to SeamlessAccess
 
 > **Who does this work?** This work is done by someone who configures your access systems for your site and the person/team that modifies the pages where sign in happens will make this change. This may be a system administrator, a software interface designer, or it could be a software developer. In some cases this work may be done by a vendor or consultant. The SeamlessAccess team will help you to identify the right person.
 
-To implement the SeamlessAccess **Limited** or **Standard** 'flavors', you will be using the SeamlessAccess service which is a hosted instance of the thiss software. This service provides the core benefits of SeamlessAccess with minimal work. Most Service Providers (SPs) will prefer this option.
+SeamlessAccess is built upon a collection of software tools know as The Identity Selector Software (thiss.io). To implement the SeamlessAccess **Limited** or **Standard** 'flavors', you will be using the SeamlessAccess service which is built from the thiss software and supported by the SeamlesAccess Coalition. This service provides the core benefits of SeamlessAccess with minimal work.
 
-To implement the **Advanced** features, you will need to use the thiss software to run your own instance of the service.
+Implementing **Advanced** features involves additional software development work and involves using an Application Programming Interface (API) to integrate with the thiss.io software.
 
 ### Connecting - "Limited" Flavor
 
@@ -62,9 +62,9 @@ For the the "Limited" flavor, you will implement:
 
 See the [Integration Guide](https://thiss.io/integration/) to learn how to configure your Service Provider (SP) software stack.
 
-### Connecting - "Full" Flavor
+### Connecting - "Standard" Flavor
 
-For the "Full" flavor, you will implement:
+For the "Standard" flavor, you will implement:
 
 * Discovery Service Integration - _Integrate the SeamlessAccess service to use it as your Discovery Service._
 * Display of SeamlessAccess Login Button - _Use the SeamlessAccess service to display the login button component on your SP login page._
