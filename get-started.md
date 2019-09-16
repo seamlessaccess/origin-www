@@ -33,6 +33,7 @@ A few examples of tools include:
 * [Layer7 SiteMinder](https://www.ca.com/us/products/ca-single-sign-on.html) (formerly CA Single Sign-On)
 * [ForgeRock Identity platform](https://www.forgerock.com/platform)
 * [Oracle Access Management platform](https://www.oracle.com/middleware/identity-management/access-management/)
+* [Ping Identity](https://www.pingidentity.com/en.html)
 
 **Or, maybe you don’t yet enable federated single sign-on…**
 
