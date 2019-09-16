@@ -12,7 +12,7 @@ feature_text: |
 
 Seamless Access is the new, convenient way to access digital scholarly content and services that builds on the [guidelines](https://www.niso.org/publications/rp-27-2019-ra21) resulting from the Resource Access in the 21st Century ([RA21](https://ra21.org)) initiative. It sets a standard for digital authentication based on a single sign on through your own home institution.
 
-The Coalition for Seamless Access is a non-profit initiative by scholars for scholars.
+The Coalition for Seamless Access is a non-profit initiative geared towards supporting research and scholarship.  
 Now you can seamlessly find and use content and services outside your institution network anytime, anywhere, and on any device. Research as it should be!
 
 ## A Modern and Reliable Approach to Resource Access
