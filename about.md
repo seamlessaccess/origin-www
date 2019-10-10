@@ -11,7 +11,7 @@ Governance of this service is through the Coalition for Seamless Access, a colla
 
 
 ## About GÉANT
-GÉANT is Europe’s leading collaboration on network and related infrastructure and services for the benefit of research and education, contributing to Europe's economic growth and competitiveness. The organisation develops, delivers and promotes advanced network and associated e-infrastructure services, and supports innovation and knowledge-sharing amongst its members, partners and the wider research and education networking community. 
+GÉANT is Europe’s leading collaboration on network and related infrastructure and services for the benefit of research and education, contributing to Europe's economic growth and competitiveness. The organization develops, delivers and promotes advanced network and associated e-infrastructure services, and supports innovation and knowledge-sharing amongst its members, partners and the wider research and education networking community. 
 
 ## About Internet2
 Internet2® is a non-profit, member-driven advanced technology community founded by the nation’s leading higher education institutions in 1996. Internet2 delivers a diverse portfolio of technology solutions that leverages, integrates, and amplifies the strengths of its members and helps support their educational, research and community service missions. Internet2’s core infrastructure components include the nation’s largest and fastest research and education network that was built to deliver advanced, customized services that are accessed and secured by the community-developed trust and identity framework. 

@@ -9,7 +9,7 @@ feature_image: "https://picsum.photos/2560/600?image=872"
 This guide is for non-technical people who want to understand how attribute release enables secure and privacy-preserving access to online library resources using federated identity management. If you first want to read up on what federated identity management is, you can find a basic introduction [here](https://docs.google.com/document/d/12my34dszhjr7cj-YPM8g0hGUZ4KIBQLbL3hCVD-4h5c/edit).
 
 ## What are attributes?
-Attributes contain information about an end user that are passed to a publisher or service provider after authentication. Think of a name, email-address etc.
+Attributes contain information about an end user that are passed to a publisher or service provider after authentication. Think of a name, email address etc.
 
 An end user working or studying in the Research & Education (R&E) sector often has a user account with their institution. Their institution is the ‘identity provider’ of the user, commonly abbreviated as IdP. During an online authentication workflow, the IdP can often provide additional attributes about the user[^1] to the organization initiating the process (also known as the Service Provider or SP). 
 
@@ -56,7 +56,7 @@ Anonymous identifier:
 
 Pseudonymous identifier
 
-  * IdP-generated identifier[^3] unique per person<>SP-combination
+  * IdP-generated identifier[^3] unique per person/SP-combination
   * Real identity unknown by the SP (pseudonymous)
   * Personalization possible
 
@@ -81,7 +81,7 @@ RA21 has adopted the [GÉANT Data Protection Code of Conduct (DPCoCo)](https://w
 RA21 recommends:
 
 * For SP’s:
-  * Only request the least-intrusive set of attributes; what you need, not what you want.
+  * Only request the least intrusive set of attributes; what you need, not what you want.
   * If the service thinks it has good reasons to request more information from the user, the service should provide a profile page in the service, so the user can, on an individual basis, enter more information (like a name, an email address etc).
   * Do not retain any extra attributes that you receive.
   * Do not use attributes for non-access purposes without prior consent or proper legal basis.
@@ -126,6 +126,6 @@ Here are some example scenarios showing how attribute release can enable differe
 
 
 [^1]: Technically, an organization can be (one of many) attribute providers for a user, without also being their identity provider. Typically, an R&E institution acts as both identity provider as well as the main (or only) attribute provider.
-[^2]: s an example: in SAML the ‘NameID’ attribute can be used to communicate a transient id. The Shibboleth wiki has a nice overview of identifiers.
+[^2]: As an example: in SAML the ‘NameID’ attribute can be used to communicate a transient id. The Shibboleth wiki has a nice overview of identifiers.
 [^3]: As an example: in SAML the ‘Pairwise Subject Identifier’ is the current state of the art identifier (while in older configurations ‘eduPersonTargetedID’ and SAML 2.0 ‘persistent NameID’ is still being used).
 [^4]: Not all federations release the same set of attributes. But there is a core set which most can supply. 

@@ -23,7 +23,7 @@ You may not know this! So, your task will be in determining who in your organiza
 
 In some cases, a vendor or software provider may provide this support for you. If this is the case, you will need to work with this provider to use SeamlessAccess. We are working with several providers, and would like to work with you and your provider on a solution.
 
-**We do this ourselves, but I don't know what tool we use**
+**This is done within your institution, but you don't know what tool you use**
 
 A few examples of tools include:
 
@@ -51,7 +51,7 @@ SeamlessAccess.org provides services and software, enabling three different "fla
 
 > **Who does this work?** This work is done by someone who configures your access systems for your site and the person/team that modifies the pages where sign in happens will make this change. This may be a system administrator, a software interface designer, or it could be a software developer. In some cases this work may be done by a vendor or consultant. The SeamlessAccess team will help you to identify the right person.
 
-SeamlessAccess is built upon a collection of software tools know as The Identity Selector Software (thiss.io). To implement the SeamlessAccess **Limited** or **Standard** 'flavors', you will be using the SeamlessAccess service which is built from the thiss software and supported by the SeamlesAccess Coalition. This service provides the core benefits of SeamlessAccess with minimal work.
+SeamlessAccess is built upon a collection of software tools known as The Identity Selector Software (thiss.io). To implement the SeamlessAccess **Limited** or **Standard** 'flavors', you will be using the SeamlessAccess service which is built from the thiss software and supported by the SeamlesAccess Coalition. This service provides the core benefits of SeamlessAccess with minimal work.
 
 Implementing **Advanced** features involves additional software development work and involves using an Application Programming Interface (API) to integrate with the thiss.io software.
 
@@ -97,7 +97,7 @@ Please let us know when you have implemented SeamlessAccess so that we can inclu
 We also will be highlighting several SeamlessAccess-enabled sites. Your inclusion will help others to envision what they can do with the SeamlessAccess service, and also provide more exposure for the work that you put in to enable SeamlessAccess.
 
 ### Include a SeamlessAccess-enabled logo on your site
-You’ve done the work; why not flaunt it! When you inform us that you have implemented SeamlessAccess, we will reply with a copy of our SeamlessAccess-enabled logo that you can add to your site. Maybe you’ll included in a blog post or tweet, or add it to your documentation about accessing your service or resources!
+You’ve done the work; why not flaunt it! When you inform us that you have implemented SeamlessAccess, we will reply with a copy of our SeamlessAccess-enabled logo that you can add to your site. Maybe you’ll included it in a blog post or tweet, or add it to your documentation about accessing your service or resources!
 
 ### Share the good news with your end users
 We’ve prepared some boilerplate text that you can use when communicating with your end users. We’ve also included some suggestions on how to spread the word, and how we can help amplify your message.
