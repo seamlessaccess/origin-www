@@ -31,4 +31,4 @@ Seamless Access enables true Single Sign On. Your users will be able to sign in 
 ![Assigned Action button](Active-Button.png)
 
 ## Free & Flexible
-No cost to use Seamless Access? Flexible implementation that works with your existing site design? Straight-forward implementation? What are you waiting for?! See the implementation guide below to understand the high-level steps, and contact Laura at laura@SeamlessAccess.org for a Getting Started Consultation to help plan your path to Seamless Access. Research as it should be.
+No cost to use Seamless Access? Flexible implementation that works with your existing site design? Straight-forward implementation? What are you waiting for?! See the [Getting Started](https://seamlessaccess.org/get-started/) guide to understand the high-level steps, and contact Laura at laura@SeamlessAccess.org for a Getting Started Consultation to help plan your path to Seamless Access. Research as it should be.
