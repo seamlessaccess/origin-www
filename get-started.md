@@ -7,7 +7,7 @@ SeamlessAccess.org supports a streamlined federated authentication experience wh
 
 # Using SeamlessAccess
 
-There are four basic steps for implementing the SeamlessAccess service:
+There are three basic steps for implementing the SeamlessAccess service:
 
 ![Four steps: 1 Gather information, 2. Connect Seamless Access Service, 3. Add Seamless Access button, 4. Tell your users](/assets/img/gettingStartedSteps.png)
 
@@ -34,6 +34,7 @@ A few examples of tools include:
 * [ForgeRock Identity platform](https://www.forgerock.com/platform)
 * [Oracle Access Management platform](https://www.oracle.com/middleware/identity-management/access-management/)
 * [Ping Identity](https://www.pingidentity.com/en.html)
+* [OpenAthens](https://openathens.org)
 
 **Or, maybe you don’t yet enable federated single sign-on…**
 
