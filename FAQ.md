@@ -42,14 +42,14 @@ SeamlessAccess.org, alongside federated authentication, could eventually replace
 Libraries have long relied on IP-based methods to provide access to licensed electronic resources. However, in today’s world of networked mobile devices and increasingly sophisticated security threats, IP-based access may not be the best choice for libraries. Some considerations for libraries include: 
 
 * Security 
- * IP-based access may pose a security threat to your institution, because legitimate credentials are not required to obtain access to resources. IP addresses can be emulated, and access could be provided for non-authorized use. Libraries should discuss these concerns with their IT department’s security professionals. 
+  * IP-based access may pose a security threat to your institution, because legitimate credentials are not required to obtain access to resources. IP addresses can be emulated, and access could be provided for non-authorized use. Libraries should discuss these concerns with their IT department’s security professionals. 
 
 * User expectations
- * Most non-library campus systems require authentication regardless of a user’s IP address, as IP addresses no longer accurately represent either a user’s location or legitimacy. Users may not understand why library access works differently from other campus systems.
- * IP access requires that a user begin with a “proxied” link if they are off-network. Users may not understand why (unlike other campus systems) they can’t go directly to the site they wish to access. 
+  * Most non-library campus systems require authentication regardless of a user’s IP address, as IP addresses no longer accurately represent either a user’s location or legitimacy. Users may not understand why library access works differently from other campus systems.
+  * IP access requires that a user begin with a “proxied” link if they are off-network. Users may not understand why (unlike other campus systems) they can’t go directly to the site they wish to access. 
 
 * Reliability
- * IP access requires that the library maintain accurate lists of of both IP ranges and vendor URLs (proxy configuration files). Proxy configurations can easily break due to unexpected changes in vendor websites, resulting in loss of access and user frustration. Federated access, by contrast, does not require as much individual maintenance by libraries, as the federation serves as a single point of access for all vendors. This simplification can improve the reliability of library resource access. 
+  * IP access requires that the library maintain accurate lists of of both IP ranges and vendor URLs (proxy configuration files). Proxy configurations can easily break due to unexpected changes in vendor websites, resulting in loss of access and user frustration. Federated access, by contrast, does not require as much individual maintenance by libraries, as the federation serves as a single point of access for all vendors. This simplification can improve the reliability of library resource access. 
 
 ### Does SeamlessAccess.org require my organization already have federated authentication technology? (e.g., Shibboleth, OpenAthens, InCommon?) 
 
