@@ -8,7 +8,7 @@ Approved by the working group - 11 November 2019
 The purpose of this working group is to define and promote a set of attribute release profiles and associated entity categories applicable to the access of scholarly information resources and services in the context of federated authentication. 
 
 The group will identify one or more categories of scholarly information resources and users such as  library walk-ins, hospital/clinical settings, research collaborations, and corporate libraries. 
-The group will then 
+The group will then: 
 
 * determine ways for IdP to identify categories of users through standard practices;
 * determine their requirements for personalization, privacy and the like;
